@@ -1,0 +1,16 @@
+*.dll
+*.exe
+*.pdb
+LICENSE_PYTHON.txt
+/__pycache__/
+/conda-meta/
+/DLLs/
+/etc/
+/include/
+/Lib/
+/Library/
+/libs/
+/Scripts/
+/share/
+/Tools/
+.nonadmin
